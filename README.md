@@ -72,7 +72,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MatheusFerraz01/MatheusFerraz01/output/snake.svg" alt="Snake animation" />
-
-###
